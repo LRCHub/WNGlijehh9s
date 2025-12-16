@@ -1,0 +1,35 @@
+# Cream – Crossroads
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:23.48] I went down to the crossroads
+[00:26.00] Fell down on my knees
+[00:30.90] Down to the crossroads
+[00:32.96] Fell down on my knees
+[00:37.93] I said I'm beggin' for mercy won't you take me
+[00:41.16] If you please
+[00:47.66] 
+[00:44.92] I went down to the crossroads
+[00:47.45] Tried to beg a ride
+[00:51.95] I went down to the crossroads
+[00:54.48] Tried to beg a ride
+[00:58.77] Nobody seemed to know me
+[01:01.66] Everybody passed me by
+[01:04.87] Take a ride
+[01:10.37] 
+[01:47.76] Going down toward Rosedale
+[01:50.32] Took Loretta by my side
+[01:54.71] Going down to Rosedale
+[01:58.05] Took Loretta by my side
+[02:01.84] Can still buy a house there
+[02:04.38] On the riverside
+[02:07.05] One more time
+[02:13.55] 
+[03:10.19] You can run, you can run
+[03:12.52] Tell all my friends I'll be by
+[03:16.78] You can run, you can run
+[03:19.43] Tell my friends I'll be by
+[03:24.88] And I'll be stayin' in the crossroads
+[03:26.65] I believe I'm sinkin' down
+```
