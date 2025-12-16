@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Crossroads",
+  "base_artist": "Cream",
+  "createdAt": "2025-12-16T05:42:29.403930Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Crossroads",
+      "artist": "Lynyrd Skynyrd",
+      "has_synced": true,
+      "path": "select/01_Crossroads_Lynyrd_Skynyrd.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Crossroads",
+      "artist": "Ry Cooder",
+      "has_synced": false,
+      "path": "select/02_Crossroads_Ry_Cooder.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Crossroads - Live",
+      "artist": "Cream",
+      "has_synced": true,
+      "path": "select/03_Crossroads_-_Live_Cream.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Crossroads (Live)",
+      "artist": "Cream",
+      "has_synced": true,
+      "path": "select/04_Crossroads_(Live)_Cream.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Crossroads (Live)",
+      "artist": "Lynyrd Skynyrd",
+      "has_synced": false,
+      "path": "select/05_Crossroads_(Live)_Lynyrd_Skynyrd.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Crossroads",
+      "artist": "W O L F C L U B feat. Dora Pereli",
+      "has_synced": true,
+      "path": "select/06_Crossroads_W_O_L_F_C_L_U_B_feat._Dora_Pereli.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Crossroads",
+      "artist": "W O L F C L U B",
+      "has_synced": true,
+      "path": "select/07_Crossroads_W_O_L_F_C_L_U_B.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Tha Crossroads",
+      "artist": "Bone Thugs-n-Harmony",
+      "has_synced": true,
+      "path": "select/08_Tha_Crossroads_Bone_Thugs-n-Harmony.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Tha Crossroads",
+      "artist": "Bone Thugs N Harmony",
+      "has_synced": true,
+      "path": "select/09_Tha_Crossroads_Bone_Thugs_N_Harmony.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Tha Crossroads (DJ U-Neek's Mo Thug Remix)",
+      "artist": "Bone Thugs-n-Harmony",
+      "has_synced": true,
+      "path": "select/10_Tha_Crossroads_(DJ_U-Neek's_Mo_Thug_Remix)_Bone_Thugs-n-Harmony.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Crossroads",
+      "artist": "Cowboy Junkies",
+      "has_synced": false,
+      "path": "select/11_Crossroads_Cowboy_Junkies.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Crossroads",
+      "artist": "Cream",
+      "has_synced": true,
+      "path": "select/12_Crossroads_Cream.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Crossroads",
+      "artist": "Cream",
+      "has_synced": true,
+      "path": "select/13_Crossroads_Cream.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Crossroads",
+      "artist": "Cream",
+      "has_synced": true,
+      "path": "select/14_Crossroads_Cream.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Lady Weeping At the Crossroads",
+      "artist": "Carla Bruni",
+      "has_synced": true,
+      "path": "select/15_Lady_Weeping_At_the_Crossroads_Carla_Bruni.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Crossroads",
+      "artist": "Cream",
+      "has_synced": false,
+      "path": "select/pl_01_Crossroads_Cream.txt"
+    }
+  ]
+}
